@@ -2,7 +2,7 @@ grid_rows = 2
 grid_cols = 2
 ball_diameter = 50
 goal_size = 100
-background_img = None  # Replace with your background image path
+background_img = None 
 
 player_x = 0
 player_y = 0
